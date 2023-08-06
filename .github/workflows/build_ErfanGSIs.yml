@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://xiaomirom.com/download/mi-mix-3-perseus-stable-V12.5.1.0.QEECNXM/#china-recovery
+  ROM_URL: https://xiaomirom.com/download/mi-9-se-grus-stable-V12.0.3.0.QFBCNXM/#china-recovery
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
